@@ -27,20 +27,6 @@ const InfoSection: FC = () => {
         >
           Link to wagmi docs
         </a>
-        <a
-          href='https://github.com/dhaiwat10/create-web3-frontend'
-          target='_blank'
-          className='underline text-gray-600'
-        >
-          Open an issue on Github
-        </a>
-        <a
-          href='https://twitter.com/dhaiwat10'
-          target='_blank'
-          className='underline text-gray-600'
-        >
-          DM me on Twitter
-        </a>
       </div>
     </div>
   );
